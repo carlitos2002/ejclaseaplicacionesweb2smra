@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Formularaio</title>
+</head>
+<body style="background-color: bisque;">
+
+    <form action="procesarformulario.php" method="get"></form>
+      <p>Nombre: <input type="text" name="nombre" size="40" placeholder="Nombre"></p>
+        <p>Apellido: <input type="text" name="nombre" size="40" placeholder="Apellidos"></p>
+        <p>Email <input type="email" name="email" size="30" required placeholder="Email"></p>
+       <p>Año de nacimiento<input type="number" name="nacido" placeholder="Fecha de nacimiento"></p>
+        <p>Foto de dni:<input type="file" name="fotodni"></p>
+       <p>sexo:
+            <input type="radio" name="hm" value="h">Hombre
+             <input type="radio" name="hm" value="m">Mujer
+        </p>
+        <p>Deportes <br>
+            <input type="checkbox" name="futbol"> Fútbol
+            <input type="checkbox" name="balocesto"> balocesto
+        </p>
+        <p>
+            <input type="submit" value="Enviar">
+         <input type="reset" value="Borrar">
+        </p>
+</body>
+</html>
