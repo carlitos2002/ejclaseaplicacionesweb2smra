@@ -16,5 +16,6 @@ span{
 }
 .parrafocursivas{
     font-style: oblique;
-
+    color: blue;
+    font-size: large;
 }
