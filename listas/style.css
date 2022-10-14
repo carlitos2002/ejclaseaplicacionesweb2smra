@@ -4,3 +4,6 @@ ul{
 ol{
     list-style-image:url(img/carita.png);
 }
+dt{
+    background-color: red;
+}
