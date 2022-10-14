@@ -4,7 +4,7 @@ ul{
 ol{
     list-style-image:url(img/carita.png);
 }
-dt{
+dt,personalizado{
     background-color: red;
     border-color: blue;
     border-style: dotted;
