@@ -6,4 +6,6 @@ ol{
 }
 dt{
     background-color: red;
+    border-color: blue;
+    border-style: dotted;
 }
