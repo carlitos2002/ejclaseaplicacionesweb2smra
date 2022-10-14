@@ -8,4 +8,5 @@ dt,personalizado{
     background-color: red;
     border-color: blue;
     border-style: dotted;
+    border-width: 2px;
 }
