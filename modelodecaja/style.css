@@ -30,3 +30,9 @@ p.carlos{
         border-top-left-radius: 20%;
         border-bottom-right-radius: 20%;
 }
+hr.e{
+   height: 5%;
+   border-bottom-left-radius: 8%;
+   border-bottom-right-radius: 10%;
+   border-style: dashed 
+}
