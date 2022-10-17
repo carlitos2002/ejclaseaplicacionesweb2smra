@@ -1,0 +1,9 @@
+p.real{
+    color: red;
+    border-color: red blue;
+    border-style: dotted;
+    border-width: 10px;
+    width: 35%;
+    padding: 20%;
+
+}
