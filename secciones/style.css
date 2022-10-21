@@ -1,0 +1,16 @@
+
+
+header{
+    border: 3px green solid;
+    height: 20%;
+    
+}
+nav{
+    border: 3px blue solid;
+    height: 60%;
+ }
+footer{
+    border: 2px green dashed;
+    height: 20%;
+
+}
