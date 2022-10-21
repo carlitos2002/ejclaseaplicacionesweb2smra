@@ -11,5 +11,12 @@ nav{
 footer{
     border: 2px green dashed;
     height: 20%;
+}
+li.menu{
+    list-style-type: none;
+    display: inline;
+    padding: 5px;
+    margin: 9px;
+    border: 3px red solid;
 
 }
