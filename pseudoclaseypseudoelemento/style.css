@@ -8,3 +8,6 @@ header :first-child{
 a:link{
     background-color: yellow;
 }
+a:visited{
+    background-color: black;
+}
