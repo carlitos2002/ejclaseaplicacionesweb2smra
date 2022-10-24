@@ -1,5 +1,7 @@
 
-
+body.b{
+    background-color: pink;
+}
 header{
     border: 3px green solid;
     height: 20%;
@@ -23,9 +25,14 @@ li.menu{
 div.logo{
     position: relative;
     margin: top 20px;
-    left: 2%;
+    left: 50%;
 }
 img.madrid{
     width: 10%;
-    border: 2px red solid;
+    border: 2px green solid;
+}
+ul.menu{
+    position: relative;
+    margin-top: 4%;
+    left: 15%;
 }
