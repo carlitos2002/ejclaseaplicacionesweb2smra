@@ -1,0 +1,7 @@
+/*Creado por Carlos Chaves*/
+header.li{
+    border: black 5px solid;
+}
+header p:first-child{
+    color: aqua;
+}
