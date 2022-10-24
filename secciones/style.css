@@ -23,8 +23,9 @@ li.menu{
 div.logo{
     position: relative;
     margin: top 20px;
-    left: 10%;
+    left: 2%;
 }
 img.madrid{
     width: 10%;
+    border: 2px red solid;
 }
