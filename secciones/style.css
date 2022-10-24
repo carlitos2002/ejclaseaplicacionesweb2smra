@@ -20,3 +20,11 @@ li.menu{
     border: 3px red solid;
 
 }
+div.logo{
+    position: relative;
+    margin: top 20px;
+    left: 10%;
+}
+img.madrid{
+    width: 10%;
+}
