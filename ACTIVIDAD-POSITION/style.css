@@ -11,7 +11,7 @@ header{
     text-align: center;
     line-height: 45px;
 }
-div.uno{
+.uno{
     border: 2px black solid;
     position: relative;
     margin: 80px;
