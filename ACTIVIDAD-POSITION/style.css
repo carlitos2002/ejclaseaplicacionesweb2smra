@@ -9,6 +9,7 @@ header{
     height: 10%;
     background-color: darkgray;
     text-align: center;
+    line-height: 45px;
 }
 div.uno{
     border: 2px black solid;
